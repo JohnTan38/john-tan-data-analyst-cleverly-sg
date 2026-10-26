@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "name": "john-tan-data-analyst",
+  "alias": [
+    "john-tan-data-analyst.vercel.app"
+  ],
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/John_Tan_Resume_Data_Analyst_Cleverly_SG.pdf",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/pdf"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "attachment; filename=\"John_Tan_Resume_Data_Analyst_Cleverly_SG.pdf\""
+        }
+      ]
+    }
+  ]
+}
