@@ -1,0 +1,18 @@
+Position: Data Analyst
+Company: CLEVERLY SG PTE LTD
+Full-Time Salary: SGD 5,300 – SGD 8,000/month
+Part-Time Salary: SGD 2,500/month
+Working Arrangement: Hybrid / Remote options available
+Working Days: 5 days per week
+
+Key Responsibilities:
+• Collect, clean, and analyse data to support business and marketing reporting.
+• Prepare dashboards, reports, and data visualisations.
+• Support marketing performance analysis and campaign tracking.
+• Maintain data accuracy, consistency, and proper documentation.
+• Assist internal teams with data requests and reporting.
+• Follow data governance and data integrity guidelines.
+
+<corporate-website>"https://cleverly.sg/"; "https://cleverly.sg/careers/"<corporate-website>
+<vercel-deployment>deploy profile website target "data analyst" job at cleverly sg. url "john-tan-data-analyst.vercel.app". keep exixting "john-tan-profile.vercel.app"</vercel-deployment><profile-vercel-deployment>"https://john-tan-presentation.vercel.app", reference and improve - incorporate cleverly SG corporate colors and themes in new deployment/</profile-vercel-deployment>
+<github>"github.com/JohnTan38". push project folders/files to new GitHub repo where applicable for seamless deployment and future repository code updates</github><resume-template>John_Tan_Case_Manager_Selarang_Halfway_House; adapt existing resume to "Data Analyst" job role at cleverly sg, create another resume by modify "TARGET ROLE_FIT EVIDENCE & CORE COMPETENCIES", and "CORE CAPABILITIES", adapt "SELARANG REINTEGRATION MODEL" and "YELLOW RIBBON COMMITMENT" to target CLEVERLY SG role fit and corporate mission</resume-template>
